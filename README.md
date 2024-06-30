@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next js and Typescript**
 
-- 👨‍💻 All of my projects are available at [Nitinyadav.vercel.app](Nitinyadav.vercel.app)
+- 👨‍💻 All of my projects are available at [nitinyadav21.vercel.app](https://nitinyadav21.vercel.app/)
 
 - 📫 How to reach me **ny8244@gmail.com**
 
